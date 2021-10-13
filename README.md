@@ -1,1 +1,2 @@
-# hello-world
+# This is an assignment!
+# Burgers are great!
